@@ -1,4 +1,4 @@
- #Algorithmization And Programming
+ # Algorithmization And Programming
 
 - ### P0 — coding guidelines test
 - ### P1 - work with sequences
